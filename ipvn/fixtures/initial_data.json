@@ -1,0 +1,738 @@
+[
+{
+  "pk": "5583f3f3d5ca3ffc40275e7e", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "1.52.0.0", 
+    "to_ip": "1.55.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e7f", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "14.0.16.0", 
+    "to_ip": "14.0.31.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e80", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "14.160.0.0", 
+    "to_ip": "14.191.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e81", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "14.224.0.0", 
+    "to_ip": "14.255.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e82", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "27.2.0.0", 
+    "to_ip": "27.3.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e83", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "27.64.0.0", 
+    "to_ip": "27.79.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e84", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "27.118.16.0", 
+    "to_ip": "27.118.31.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e85", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "42.1.64.0", 
+    "to_ip": "42.1.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e86", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "42.96.0.0", 
+    "to_ip": "42.96.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e87", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "42.112.0.0", 
+    "to_ip": "42.119.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e88", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "49.213.64.0", 
+    "to_ip": "49.213.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e89", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "49.246.128.0", 
+    "to_ip": "49.246.191.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e8a", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "49.246.192.0", 
+    "to_ip": "49.246.223.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e8b", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "58.186.0.0", 
+    "to_ip": "58.187.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e8c", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "61.11.224.0", 
+    "to_ip": "61.11.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e8d", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "61.28.224.0", 
+    "to_ip": "61.28.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e8e", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "101.53.0.0", 
+    "to_ip": "101.53.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e8f", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "101.96.64.0", 
+    "to_ip": "101.96.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e90", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "101.99.0.0", 
+    "to_ip": "101.99.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e91", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "111.65.240.0", 
+    "to_ip": "111.65.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e92", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "112.72.64.0", 
+    "to_ip": "112.72.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e93", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "112.78.0.0", 
+    "to_ip": "112.78.15.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e94", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "112.137.128.0", 
+    "to_ip": "112.137.143.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e95", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "112.197.0.0", 
+    "to_ip": "112.197.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e96", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "112.213.80.0", 
+    "to_ip": "112.213.95.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e97", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "113.20.96.0", 
+    "to_ip": "113.20.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e98", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "113.22.0.0", 
+    "to_ip": "113.22.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e99", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "113.23.0.0", 
+    "to_ip": "113.23.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e9a", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "113.52.32.0", 
+    "to_ip": "113.52.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e9b", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "113.160.0.0", 
+    "to_ip": "113.191.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e9c", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "115.72.0.0", 
+    "to_ip": "115.79.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e9d", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "116.96.0.0", 
+    "to_ip": "116.111.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e9e", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "116.118.0.0", 
+    "to_ip": "116.118.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275e9f", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "116.193.64.0", 
+    "to_ip": "116.193.79.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ea0", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "116.212.32.0", 
+    "to_ip": "116.212.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ea1", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "117.0.0.0", 
+    "to_ip": "117.7.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ea2", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "117.103.192.0", 
+    "to_ip": "117.103.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ea3", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "117.122.0.0", 
+    "to_ip": "117.122.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ea4", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "118.68.0.0", 
+    "to_ip": "118.71.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ea5", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "118.107.64.0", 
+    "to_ip": "118.107.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ea6", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "119.15.160.0", 
+    "to_ip": "119.15.191.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ea7", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "119.17.192.0", 
+    "to_ip": "119.17.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ea8", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "119.18.128.0", 
+    "to_ip": "119.18.143.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ea9", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "119.82.128.0", 
+    "to_ip": "119.82.143.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eaa", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "120.72.96.0", 
+    "to_ip": "120.72.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eab", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "120.138.64.0", 
+    "to_ip": "120.138.79.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eac", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "122.129.0.0", 
+    "to_ip": "122.129.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ead", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "123.16.0.0", 
+    "to_ip": "123.31.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eae", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "124.157.0.0", 
+    "to_ip": "124.157.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eaf", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "124.158.0.0", 
+    "to_ip": "124.158.15.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eb0", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "125.58.0.0", 
+    "to_ip": "125.58.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eb1", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "125.212.128.0", 
+    "to_ip": "125.212.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eb2", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "125.214.0.0", 
+    "to_ip": "125.214.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eb3", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "125.234.0.0", 
+    "to_ip": "125.235.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eb4", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "125.253.112.0", 
+    "to_ip": "125.253.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eb5", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "171.224.0.0", 
+    "to_ip": "171.255.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eb6", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "175.103.64.0", 
+    "to_ip": "175.103.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eb7", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "180.93.0.0", 
+    "to_ip": "180.93.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eb8", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "180.148.128.0", 
+    "to_ip": "180.148.143.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eb9", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "182.161.80.0", 
+    "to_ip": "182.161.95.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eba", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "183.80.0.0", 
+    "to_ip": "183.80.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ebb", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "183.81.0.0", 
+    "to_ip": "183.81.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ebc", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "183.91.0.0", 
+    "to_ip": "183.91.31.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ebd", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "183.91.160.0", 
+    "to_ip": "183.91.191.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ebe", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "202.151.160.0", 
+    "to_ip": "202.151.175.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ebf", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.113.128.0", 
+    "to_ip": "203.113.159.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ec0", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.113.160.0", 
+    "to_ip": "203.113.191.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ec1", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.162.16.0", 
+    "to_ip": "203.162.31.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ec2", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.162.32.0", 
+    "to_ip": "203.162.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ec3", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.162.64.0", 
+    "to_ip": "203.162.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ec4", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.162.128.0", 
+    "to_ip": "203.162.143.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ec5", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.162.144.0", 
+    "to_ip": "203.162.159.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ec6", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.162.160.0", 
+    "to_ip": "203.162.191.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ec7", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.162.192.0", 
+    "to_ip": "203.162.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ec8", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.163.128.0", 
+    "to_ip": "203.163.191.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ec9", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.171.16.0", 
+    "to_ip": "203.171.31.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275eca", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.190.160.0", 
+    "to_ip": "203.190.175.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ecb", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.195.0.0", 
+    "to_ip": "203.195.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ecc", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.205.0.0", 
+    "to_ip": "203.205.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ecd", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.210.128.0", 
+    "to_ip": "203.210.191.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ece", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "203.210.192.0", 
+    "to_ip": "203.210.255.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ecf", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "210.2.64.0", 
+    "to_ip": "210.2.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ed0", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "210.86.224.0", 
+    "to_ip": "210.86.239.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ed1", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "210.211.96.0", 
+    "to_ip": "210.211.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ed2", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "210.245.0.0", 
+    "to_ip": "210.245.31.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ed3", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "210.245.32.0", 
+    "to_ip": "210.245.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ed4", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "210.245.64.0", 
+    "to_ip": "210.245.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ed5", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "220.231.64.0", 
+    "to_ip": "220.231.127.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ed6", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "221.121.0.0", 
+    "to_ip": "221.121.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ed7", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "221.132.0.0", 
+    "to_ip": "221.132.63.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ed8", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "221.133.0.0", 
+    "to_ip": "221.133.31.255"
+  }
+},
+{
+  "pk": "5583f3f3d5ca3ffc40275ed9", 
+  "model": "ipvn.iprange", 
+  "fields": {
+    "from_ip": "222.252.0.0", 
+    "to_ip": "222.255.255.255"
+  }
+}
+]
